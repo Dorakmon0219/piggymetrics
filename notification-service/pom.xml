@@ -82,6 +82,10 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>top.bestzt.mtfl4ms</groupId>
+			<artifactId>metrace-plugin</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>

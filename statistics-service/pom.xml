@@ -83,6 +83,10 @@
 			<version>2.2.0</version>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>top.bestzt.mtfl4ms</groupId>
+			<artifactId>metrace-plugin</artifactId>
+		</dependency>
 	</dependencies>
 	
 	<build>
